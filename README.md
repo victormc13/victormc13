@@ -2,7 +2,7 @@
 - 👀 I’m interested in world of programming
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on web applications
-- 📫 How to reach me 
+- 📫 How to reach me: viktorsb14@gmail.com
 
 <!---
 victormc13/victormc13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
