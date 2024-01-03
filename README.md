@@ -1,6 +1,7 @@
 # Hi 👋, I'm Victor
 
-[![Watch the video](media/overview-image.jpg)](https://youtu.be/9tcoqV-LFf0)
+<h3>Overview:</h3>
+<image src="media/victormc13.png" width="100%" height="auto" alt="overview image"></image>
 
 ### A passionate Full-stack developer student from Perú
 
@@ -8,10 +9,6 @@
 - 🌱 I’m currently learning **JavaScript**, **Python**, **React**, **Node.js**.
 - 💬 Ask me about **HTML, CSS, Bootstrap, and Git**.
 - 📫 How to reach me: **viktorsb14@gmail.com**
-
-
-<h3>Overview:</h3>
-<image src="media/victormc13.png" width="100%" height="auto" alt="overview image"></image>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
