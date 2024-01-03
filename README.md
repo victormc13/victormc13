@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Victor</h1>
-<video src="media/victormc13-year-in-code.mp4" autoplay loop muted></video>
-<h3 align="center">A passionate Full-stack developer student from Perú</h3>
+# Hi 👋, I'm Victor
 
-- 🔭 I’m currently working on this [projects.](https://github.com/victormc13?tab=repositories)
+[![Watch the video](media/overview-image.jpg)](https://youtu.be/9tcoqV-LFf0)
 
-- 🌱 I’m currently learning **JavaScript** **Python** **React** **Node.js**
+### A passionate Full-stack developer student from Perú
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, and Git**
+- 🔭 I’m currently working on these [projects](https://github.com/victormc13?tab=repositories).
+- 🌱 I’m currently learning **JavaScript**, **Python**, **React**, **Node.js**.
+- 💬 Ask me about **HTML, CSS, Bootstrap, and Git**.
+- 📫 How to reach me: **viktorsb14@gmail.com**
 
-- 📫 How to reach me **viktorsb14@gmail.com**
 
 <h3>Overview:</h3>
 <image src="media/victormc13.png" width="100%" height="auto" alt="overview image"></image>
