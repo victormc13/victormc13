@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 
-![My Awesome GIF]([https://giphy.com/embed/4ReK5ligyz4PvUzfGl](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VsMTRlN3lpdW9wempwMzB5bnc1ZWc5cmtqbWRzc2F0dXJjcGV6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ReK5ligyz4PvUzfGl/giphy.gif))
+<div style="width:50%;margin:auto;"><img src="media/typing.webp" width="100%" height="100%"></img></div>
+
 <h3 align="center">A passionate frontend developer from Lima, Perú</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=victormc13&label=Profile%20views&color=0e75b6&style=flat" alt="victormc13" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victormc13" alt="victormc13" /></a> </p>
+<p align="center" style="width:100%;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victormc13" alt="victormc13"/></a> </p>
 
 - 🌱 I’m currently learning **Get started with C# by Microsoft**
 
